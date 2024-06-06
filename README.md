@@ -8,11 +8,14 @@ Traditional Machine Learning Approach
 Algorithms Used: KNN, SVM, Decision Tree, Random Forest
 
 Data preprocessing: Cleaning and preparing the dataset
+
 Feature extraction: Identifying key features from images
+
 Model training: Building and training models using different algorithms
+
 Evaluation: Measuring model performance using metrics like accuracy, precision, recall, and F1-score
-Convolutional Neural Networks (CNN) Approach
-Architectures Used: VGG16, ResNet, MobileNet
+
+Convolutional Neural Networks (CNN) Approach Architectures Used: VGG16, ResNet, MobileNet
 
 **Steps Involved:**
 
