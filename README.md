@@ -1,4 +1,5 @@
-Burn Severity Detection Using ML and CNN
+**Burn Severity Detection Using ML and CNN**:
+
 This project focuses on detecting the severity of burn injuries using skin burn images. Two approaches were implemented: traditional machine learning algorithms and convolutional neural networks (CNNs). The goal is to accurately classify the severity of burns to assist in medical diagnosis and treatment.
 
 Project Overview
