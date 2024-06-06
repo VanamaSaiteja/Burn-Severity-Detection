@@ -41,6 +41,7 @@ The project demonstrated that CNN-based models outperformed traditional machine 
 Visualization techniques helped in understanding the key features influencing the model's predictions, providing insights into the decision-making process.
 
 **Results:**
+
 **MobileNet accuracy**
 ![image](https://github.com/VanamaSaiteja/Burn-Severity-Detection/assets/132589892/d8b68dde-79e7-4bf7-b34c-9ad4f8b1a05c)
 **Resnet accuracy**
