@@ -40,6 +40,30 @@ The project demonstrated that CNN-based models outperformed traditional machine 
 
 Visualization techniques helped in understanding the key features influencing the model's predictions, providing insights into the decision-making process.
 
+**Results:**
+**MobileNet accuracy**
+![image](https://github.com/VanamaSaiteja/Burn-Severity-Detection/assets/132589892/d8b68dde-79e7-4bf7-b34c-9ad4f8b1a05c)
+**Resnet accuracy**
+![image](https://github.com/VanamaSaiteja/Burn-Severity-Detection/assets/132589892/a8ec6dc4-fd12-4641-96b8-d7624a907f16)
+**VGG 16 accuracy**
+![image](https://github.com/VanamaSaiteja/Burn-Severity-Detection/assets/132589892/ab9d20dc-99fc-463e-8923-87b3ad636f80)
+
+
+The project demonstrated that CNN-based models outperformed traditional machine learning models in accurately classifying burn injury severity.
+
+Visualization techniques helped in understanding the key features influencing the model's predictions, providing insights into the decision-making process.
+
+**Comparative Analysis**
+![image](https://github.com/VanamaSaiteja/Burn-Severity-Detection/assets/132589892/137ebdf2-d171-4a28-bd97-66c4b1e474d8)
+
+![image](https://github.com/VanamaSaiteja/Burn-Severity-Detection/assets/132589892/2c4f89bc-a585-40f3-ac2c-c9628b9a497b)
+
+
+
+
+
+
+
 **Conclusion:**
 
 This project highlights the potential of combining traditional machine learning algorithms with advanced deep learning techniques to improve the accuracy and reliability of burn injury severity detection. The comparative analysis and model evaluations provide a comprehensive understanding of the effectiveness of different approaches, paving the way for further advancements in medical image analysis.
