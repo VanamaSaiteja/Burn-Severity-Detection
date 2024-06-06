@@ -6,6 +6,7 @@ This project focuses on detecting the severity of burn injuries using skin burn 
 
 Traditional Machine Learning Approach
 Algorithms Used: KNN, SVM, Decision Tree, Random Forest
+
 **Steps Involved:**
 
 Data preprocessing: Cleaning and preparing the dataset
